@@ -1,0 +1,12 @@
+{
+  "name": "cafeflow-workspace",
+  "version": "1.0.0",
+  "description": "CafeFlow — Smart POS, KDS & Executive Admin System",
+  "private": true,
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  }
+}
+
